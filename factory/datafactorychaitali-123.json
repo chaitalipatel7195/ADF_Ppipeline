@@ -1,0 +1,9 @@
+{
+	"name": "datafactorychaitali-123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa0147d5-7898-4d0b-bf55-b1102fe84132",
+		"tenantId": "dfcf76ef-1dd7-45ac-8abe-afe68dd12b03"
+	}
+}
